@@ -4,7 +4,7 @@ Interactive Microsoft Excel dashboard for analyzing 2,000 electric vehicle recor
 
 
 
-📊## Project Overview
+##📊Project Overview
 
 An interactive Microsoft Excel dashboard designed to analyze the Electric Vehicle (EV) market using 2,000 vehicle records.
 
@@ -12,7 +12,7 @@ This project explores important aspects of the EV market, including vehicle pric
 
 ---
 
-🎯## Business Objective
+##🎯Business Objective
 
 The objective of this project is to analyze EV market data and identify patterns in:
 
@@ -25,7 +25,7 @@ The objective of this project is to analyze EV market data and identify patterns
 
 ---
 
-📂## Dataset
+##📂 Dataset
 
 - Total Records: 2,000
 - Dataset File: "ev_market_2026.xlsx"
@@ -46,7 +46,7 @@ The dataset contains information such as:
 
 ---
 
-🛠️ ## Tools & Technologies
+##🛠️  Tools & Technologies
 
 - Microsoft Excel
 - Power Query
@@ -57,7 +57,7 @@ The dataset contains information such as:
 
 ---
 
-🧹## Data Cleaning
+##🧹 Data Cleaning
 
 The dataset was prepared for analysis by:
 
@@ -70,7 +70,7 @@ The dataset was prepared for analysis by:
 
 ---
 
-📈 ## Key Performance Indicators
+##📈  Key Performance Indicators
 
 The dashboard includes the following KPIs:
 
@@ -81,7 +81,7 @@ The dashboard includes the following KPIs:
 
 ---
 
-📊 Dashboard Features
+##📊 Dashboard Features
 
 The interactive dashboard includes:
 
@@ -100,7 +100,7 @@ The interactive dashboard includes:
 
 ---
 
-💡## Business Insights
+##💡 Business Insights
 - Differences in average vehicle prices across different body types.
 - Variations in EV driving range across different years.
 - Differences in average driving range among EV brands.
