@@ -25,7 +25,7 @@ The objective of this project is to analyze EV market data and identify patterns
 
 The dataset used for this project is:
 
-**EV Market Dataset – `ev_market_2026.xlsx`**
+EV Market Dataset – [Download Dataset](https://github.com/Varsha-Kookkal/Electric-Vehicle-Market-and-Performance-Analysis/blob/main/ev_market_2026.xlsx)
 
 - Total Records: 2,000
 - Total Columns: 24
@@ -44,7 +44,7 @@ The dataset contains information such as:
 - Vehicle Body Type
 - Customer Ratings
 
-[Download Dataset](https://github.com/Varsha-Kookkal/Electric-Vehicle-Market-and-Performance-Analysis/blob/main/ev_market_2026.xlsx)
+
 
 ## 🛠️ Tools & Technologies
 
