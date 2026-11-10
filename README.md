@@ -99,9 +99,9 @@ All connected dashboard visuals update dynamically based on the selected filters
 
 ## 🖥️ Dashboard Preview
 
-![EV Market and Performance Analysis Dashboard](images/ev-dashboard.png)
+![EV Market and Performance Analysis Dashboard]
 
-[View Dashboard](images/ev-dashboard.png)
+[View Dashboard](https://github.com/Varsha-Kookkal/Electric-Vehicle-Market-and-Performance-Analysis/blob/main/Final%20%20EV%20Dashboard.png)
 
 ## 💡 Key Business Insights
 
